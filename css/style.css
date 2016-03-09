@@ -10,8 +10,8 @@
 
 .imagen_flotante img
 {
-	width: 96px;
-	height: 96px;
+	width: 256px;
+	height: 256px;
 }
 
 p 
@@ -19,8 +19,12 @@ p
         display: inline;
 }
 
-a 
+span 
 {
-	display:block;
-	
+	display: none;
+}
+
+h1 
+{
+	text-align: center;
 }
