@@ -1,1 +1,13 @@
 /*estilos del anuario, práctica correspondiente al curso "Introducción al software de control de versiones GIT"*/
+.imagen_flotante 
+{
+	float: left;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.imagen_flotante img
+{
+	width: 96px;
+	height: 96px;
+}
