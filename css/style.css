@@ -1,34 +1,77 @@
 /*estilos del anuario, práctica correspondiente al curso "Introducción al software de control de versiones GIT"*/
-/*estilos del anuario, práctica correspondiente al curso "Introducción al software de control de versiones GIT"*/
+
+html { background: radial-gradient(ellipse at center, rgba(143,178,153,1) 0%, rgba(143,178,153,0.62) 34%, rgba(143,178,153,0.28) 64%, rgba(143,178,153,0.28) 100%);
+}
 .imagen_flotante 
 {
-	float: left;
-	border-radius: 10px 10px 10px 10px;
-	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-	margin-left:15px;
+    display: inline-block;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
 }
 
 .imagen_flotante img
 {
-	width: 200px;
-	height: 200px;
+	width: 95%;
+	height: 95%;
 }
 
-p 
+.centerDiv 
 {
-        display: inline;
+    text-align:center;
+}
+
+a 
+{
+    text-decoration:none;
 }
 
 span 
+
 {
-	display: none;
+    visibility:hidden; 
+    padding-left:15px; 
+    padding-right:15px;
 }
+
+div span
+{
+        text-align: center;
+        font-size:12px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:95%;
+        height:30px;
+	margin-top:235px;
+        margin-left: 10px;
+        border-radius: 5px 5px 5px 5px;
+        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
 
 h1 
 {
 	text-align: center;
 }
+
 button 
 {
 	text-align: center;
+        font-size:20px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:80%;
+        height:40px;
+	margin-top:10%;
+        cursor: pointer;
 }
+
