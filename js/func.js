@@ -8,9 +8,9 @@ function hide_unHide(item) {
 
    var elem = document.getElementById(item);
    
-  if (elem.style.display == 'block') {
-     elem.style.display = 'none';
+  if (elem.style.visibility == 'visible') {
+     elem.style.visibility = 'hidden';
   } else {
-     elem.style.display = 'block';
+     elem.style.visibility = 'visible';
   }
 }
