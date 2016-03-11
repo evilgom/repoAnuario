@@ -75,3 +75,20 @@ button
         cursor: pointer;
 }
 
+.bottom-info-section {
+    background-color:#a8bfd6; 
+    width: 100%;
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    height:40px;
+    z-index:1;
+}
+
+.w3c-pic {
+    z-index: 5;
+    text-align: center;
+    width: 100%;
+    margin: 5px;
+}
+
