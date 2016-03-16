@@ -1,5 +1,11 @@
 # repoAnuario
 
+v2
+----
+Implementados efecto flip-flop en imágenes de perfil.
+Cambios visuales menores
+Añadido el proyecto a GitHub Pages en http://evilgom.github.io/repoAnuario/
+
 v1
 ----
 Implementados requisitos iniciales:
