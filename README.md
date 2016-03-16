@@ -2,6 +2,11 @@
 
 v2
 ----
+Incluida validación W3C en formulario de contactos
+Actualizado el proyecto en GitHub Pages en http://evilgom.github.io/repoAnuario/
+
+v2
+----
 Implementados efecto flip-flop en imágenes de perfil.
 Cambios visuales menores
 Añadido el proyecto a GitHub Pages en http://evilgom.github.io/repoAnuario/
