@@ -1,6 +1,6 @@
 # repoAnuario
 
-v2
+v3
 ----
 Incluida validación W3C en formulario de contactos
 Actualizado el proyecto en GitHub Pages en http://evilgom.github.io/repoAnuario/
