@@ -1,15 +1,12 @@
 # repoAnuario
 
 v2
-<<<<<<< HEAD
-=======
 ----
 Implementados efecto flip-flop en imágenes de perfil.
 Cambios visuales menores
 Añadido el proyecto a GitHub Pages en http://evilgom.github.io/repoAnuario/
 
 v1
->>>>>>> gh-pages
 ----
 Implementados requisitos iniciales:
 	- Mostrar/Ocultar descripción imagen.
